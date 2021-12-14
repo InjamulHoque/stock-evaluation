@@ -23,7 +23,7 @@ Table of contents
 
 Introduction
 ------------
-This is a simple excel project which main target is to predict the price range of a stock. Here used one year of american economy data base from 2019 to 2020. The prediction accuracy rate was about 95 percent.
+This is a simple excel project whose main target is to predict the price range of stock. Here used the American economy database records file from 2019 to 2020. The prediction accuracy rate was about 95 percent.
 
 The main goal ponts of this project are listed below:
 
@@ -51,7 +51,7 @@ A suggested approach for using this project is as follows:
 
 Getting help
 ------------
-Here I have given my all social id links. If you face any problem then pls don't feel hasitated to contact with me.
+Here I have given my all social id links. If you face any problem then pls don't feel hesitate to contact me.
 
 * [LinkedIn Id](https://www.linkedin.com/in/injamulhoqueds)
 * [Tweeter Id]( @Injamulhoque_ds)
@@ -72,9 +72,9 @@ This project is distributed under the terms of the MIT license.  The license app
 Authors and history
 ---------------------------
 
-The author of this project is Injamul Hoque who is a data science practitioner. He recently made a ds roadmap and this project is a part of his learnig according to the roadmap.
+The author of this project is Injamul Hoque who is a data science practitioner. He recently made a ds roadmap and this project is a part of his learning according to the roadmap.
 
 Acknowledgments
 ---------------
 
-I have completed this project through the course "MS Excel for data analysis" in Udemy, conducting by the nice instructor Yassin Marco.
+I have completed this project through the course "MS Excel for data analysis" in the Udemy E-learning platform, conducted by the nice instructor Yassin Marco.
