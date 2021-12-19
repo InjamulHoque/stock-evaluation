@@ -1,7 +1,7 @@
 Project: Stock evaluation based on Excel
 =================================================
 
-It is an excel based stock evaluation project which is created by Injamulhoque_ds. The goal of this project is about to create a modle which can predict the price range of a stockYou can fork and clone this project. If you are beginner in excel you can check out how the basic formulas work through this project.
+It is an excel based stock evaluation project which is created by Injamulhoque_ds. The goal of this project is to create a model which can predict the price range of stock. you can fork and clone this project. If you are a beginner in excel you can check out how the basic formulas work through this project.
 
 [![GitHub license](https://img.shields.io/github/license/InjamulHoque/stock-evaluation?color=blue&style=flat-square)](https://github.com/InjamulHoque/stock-evaluation)
 ![Twitter Follow](https://img.shields.io/twitter/follow/Injamulhoque_ds?style=social)
@@ -25,7 +25,7 @@ Introduction
 ------------
 This is a simple excel project whose main target is to predict the price range of stock. Here used the American economy database records file from 2019 to 2020. The prediction accuracy rate was about 95 percent.
 
-The main goal ponts of this project are listed below:
+The main goal points of this project are listed below:
 
 * Highest price ever
 * Lowest price ever
